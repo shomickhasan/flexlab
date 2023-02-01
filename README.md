@@ -37,5 +37,12 @@ etc
 ### Prerequisites
 website link -> https://flexlab.shomick.info/
 
+#### Installation
+1 download this file 
+2. configure .env file 
+3. create database and import sql file
+4. run this project 
+
+
 
 
